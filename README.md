@@ -1,6 +1,6 @@
-# capibara
+# capybara
 
-creative commons capibara icons
+creative commons capybara icons
 
 
-drawn with inkscape december 2021
+drawn by uli with inkscape december 2021
